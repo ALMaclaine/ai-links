@@ -1,0 +1,26 @@
+# ai-links
+
+- https://nubela.co/proxycurl/people-api
+- https://pipedream.com/
+- https://newsapi.org/
+- https://annas-archive.org/llm
+- https://www.youtube.com/@starmorph/videos
+- https://www.youtube.com/watch?v=CXVGhaBUFgs
+- https://www.youtube.com/@leonvanzyl/videos
+- https://www.youtube.com/watch?v=KwRRuiCCdmc
+- https://github.com/sdtblck/youtube_subtitle_dataset
+- https://github.com/soskek/bookcorpus/issues/27
+- https://www.youtube.com/@alejandro_ao
+- https://www.browserless.io/
+- https://github.com/soskek/bookcorpus
+- https://github.com/EleutherAI/the-pile
+- https://github.com/gkamradt/langchain-tutorials
+- https://www.youtube.com/@starmorph/videos
+- https://www.youtube.com/watch?v=jRnUPUTkZmU
+- https://www.youtube.com/watch?v=QdDoFfkVkcw
+- https://www.runpod.io/serverless-gpu
+- https://github.com/AntonOsika/gpt-engineer
+- https://serpapi.com/
+- https://www.npmjs.com/package/youtube-transcript
+- https://brave.com/search/api/
+- https://github.com/promptslab/Promptify
