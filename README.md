@@ -24,3 +24,4 @@
 - https://www.npmjs.com/package/youtube-transcript
 - https://brave.com/search/api/
 - https://github.com/promptslab/Promptify
+- https://github.com/FlowiseAI/Flowise
